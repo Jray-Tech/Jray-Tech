@@ -21,7 +21,7 @@
 - 🔬 Research: _Quantifying & Enhancing Explainability of Vision Transformers for Medical Images_
 - 📱 **Full‑stack builder** – cross‑platform apps with **React Native**, sleek web UIs in **React**, and secure back‑ends in **Node.js** + **Firebase / GCP**
 - 🛠 Shipping scalable, secure ML systems in **finance, healthcare & social tech**
-- 🕹 Fun fact: I make braided wigs for Black women & play a mean game of chess ♟️
+- 🕹 Fun fact: I play a mean game of chess ♟️
 
 ## 🚀 Tech & Tools
 
