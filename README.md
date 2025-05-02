@@ -45,11 +45,6 @@ Databases     : PostgreSQL, MySQL, MongoDB, Firebase Firestore
 | **Seismic Oil‑Well Predictor** | Data Scientist | 63% accuracy locating wells via seismic signals |
 | **Soccer Match Forecaster** | ML Engineer | PyTorch model predicting outcomes with 58% accuracy |
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jray-Tech&layout=compact&hide_border=true" alt="Top Langs" />
-</p>
 
 ## 📝 Currently Working On
 
