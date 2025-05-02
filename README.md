@@ -40,7 +40,6 @@ Databases     : PostgreSQL, MySQL, MongoDB, Firebase Firestore
 | Project | Role | Highlights |
 |---------|------|-----------|
 | **Approachable** | Lead Engineer | React Native + GCP‑backed event platform; AI recommendations; led team of 5; AES‑256 security |
-| **Consensus Gentium** | Consultant Engineer | Swift/ARKit interactive film; optimised facial‑tracking pipeline; Silbersalz award |
 | **Badval Election Monitor** | Mobile / Web Dev | React Native mobile + React web admin panel; real‑time ballot anomaly analytics; >6 000 users |
 | **CNN Campus Classifier** | Hackathon Winner | 96% accuracy identifying university buildings from photos |
 | **Seismic Oil‑Well Predictor** | Data Scientist | 63% accuracy locating wells via seismic signals |
@@ -49,8 +48,6 @@ Databases     : PostgreSQL, MySQL, MongoDB, Firebase Firestore
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jray-Tech&show_icons=true&hide_border=true" alt="Ayomide's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jray-Tech&hide_border=true" alt="Ayomide's GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jray-Tech&layout=compact&hide_border=true" alt="Top Langs" />
 </p>
 
@@ -58,12 +55,10 @@ Databases     : PostgreSQL, MySQL, MongoDB, Firebase Firestore
 
 - ⏳ Finishing my MSc thesis on XAI & ViTs
 - 🤖 **Low‑Resource Language Translation** project (English ↔ Yoruba) using Naïve Bayes, SVC, LSTM & ByT5
-- 📊 **GB Road‑Traffic Analysis** — clustering, time‑series forecasting & association rules
 
 ## 📚 Learning & Interests
 
 - Self‑supervised learning & uncertainty estimation
-- Few‑shot / zero‑shot vision transformer techniques
 - Neurosymbolic AI & causal reasoning
 
 ## 🤝 Connect With Me
