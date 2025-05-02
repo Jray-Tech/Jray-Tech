@@ -5,7 +5,7 @@
 
 <p align="center">
   <samp>
-    👋🏾 Hi there! I'm <strong>Ayomide Yusuf Onikoyi</strong> — AI / ML Engineer | Vision Transformers & XAI Enthusiast
+    👋🏾 Hi there! I'm <strong>Ayomide Yusuf Onikoyi</strong> — AI / ML Engineer | React Native Mobile App Developer | Software Engineer | Vision Transformers & XAI Enthusiast
   </samp>
   <br/>
   <samp>
