@@ -18,7 +18,6 @@
 ## 🧑🏾‍💻 About Me
 
 - 🎓 MSc candidate in **Artificial Intelligence & Data Science** @ University of Hull (2024‑2025)
-- 🔬 Research: _Quantifying & Enhancing Explainability of Vision Transformers for Medical Images_
 - 📱 **Full‑stack builder** – cross‑platform apps with **React Native**, sleek web UIs in **React**, and secure back‑ends in **Node.js** + **Firebase / GCP**
 - 🛠 Shipping scalable, secure ML systems in **finance, healthcare & social tech**
 - 🕹 Fun fact: I play a mean game of chess ♟️
@@ -46,10 +45,6 @@ Databases     : PostgreSQL, MySQL, MongoDB, Firebase Firestore
 | **Soccer Match Forecaster** | ML Engineer | PyTorch model predicting outcomes with 58% accuracy |
 
 
-## 📝 Currently Working On
-
-- ⏳ Finishing my MSc thesis on XAI & ViTs
-- 🤖 **Low‑Resource Language Translation** project (English ↔ Yoruba) using Naïve Bayes, SVC, LSTM & ByT5
 
 ## 📚 Learning & Interests
 
@@ -67,7 +62,6 @@ Databases     : PostgreSQL, MySQL, MongoDB, Firebase Firestore
 <details>
   <summary>📜 <strong>Certificates & Achievements</strong></summary>
 
-  - AWS Certified Machine Learning – Specialty *(in progress)*
   - Winner — University of Hull AI & Data Science Hackathon
   - Winner — University of Hull Employers Challenge
 
